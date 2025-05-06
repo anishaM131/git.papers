@@ -1,5 +1,5 @@
-#Super cool file
-Written by Me!
+#Super cool file with everyone
+Written by Me! and John
 
 #Introduction
 Very important paper isn't that crazy!
