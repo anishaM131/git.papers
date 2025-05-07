@@ -7,6 +7,9 @@ Very important paper isn't that crazy!
 #Results
 wowza new results
 
+#Figures
+omg pretty pictures 
+
 #References
 Smith, J. (2020)
 Markello, R. (2021)
